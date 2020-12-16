@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-**jalalasif/jalalasif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on building a personal website.
 - 🌱 I’m currently learning to write Python, React and Swift.
 - 🤔 I’m looking for help with Software Testing.
